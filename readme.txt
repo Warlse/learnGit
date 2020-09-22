@@ -4,3 +4,5 @@ Git is free software distributed under the GPL.
 Git is a good tool.
 
 creating a new branch dev.
+
+Creating a new branch is quick AND simple.
